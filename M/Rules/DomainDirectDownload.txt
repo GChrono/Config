@@ -1,0 +1,4 @@
+payload:
+  - '+.assetcdn.101.arenanetworks.com'
+  - '+.resources.eveonline.com.cdn.cloudflare.net'
+  - '+.resources.eveonline.com'
