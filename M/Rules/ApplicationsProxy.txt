@@ -3,3 +3,4 @@ payload:
   - PROCESS-NAME,exefile.exe
   - PROCESS-NAME,eve-online.exe
   - PROCESS-NAME,Gw2-64.exe
+  - PROCESS-NAME,PathOfExileSteam.exe
