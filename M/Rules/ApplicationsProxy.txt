@@ -4,4 +4,5 @@ payload:
   - PROCESS-NAME,eve-online.exe
   - PROCESS-NAME,Gw2-64.exe
   - PROCESS-NAME,PathOfExileSteam.exe
-  - PROCESS-NAME,PathOfExile_x64Steam.exe.exe
+  - PROCESS-NAME,PathOfExile_x64Steam.exe
+  - PROCESS-NAME,Discord.exe
