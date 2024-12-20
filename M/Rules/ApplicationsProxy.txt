@@ -6,4 +6,4 @@ payload:
   - PROCESS-NAME,PathOfExileSteam.exe
   - PROCESS-NAME,PathOfExile_x64Steam.exe
   - PROCESS-NAME,Discord.exe
-  - PROCESS-NAME,Overwolf.exe
+  - PROCESS-NAME,OverwolfBrowser.exe
