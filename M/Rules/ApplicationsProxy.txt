@@ -8,3 +8,4 @@ payload:
   - PROCESS-NAME,Discord.exe
   - PROCESS-NAME,OverwolfBrowser.exe
   - PROCESS-NAME,chrome_proxy.exe
+  - PROCESS-NAME,PathOfExile.exe,Proxy
