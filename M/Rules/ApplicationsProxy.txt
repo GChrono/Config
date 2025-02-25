@@ -9,3 +9,4 @@ payload:
   - PROCESS-NAME,OverwolfBrowser.exe
   - PROCESS-NAME,chrome_proxy.exe
   - PROCESS-NAME,PathOfExile.exe,Proxy
+  - PROCESS-NAME,DragonkinTheBanished-Win64-Shipping.exe,Proxy
