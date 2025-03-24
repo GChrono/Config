@@ -368,4 +368,3 @@ payload:
   - '+.zohoexternal.com'
   - '+.zoho.in'
   - '+.zoho.eu'
-  - '+.kamuse.zcdn.co.kr'
