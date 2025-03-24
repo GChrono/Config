@@ -368,3 +368,4 @@ payload:
   - '+.zohoexternal.com'
   - '+.zoho.in'
   - '+.zoho.eu'
+  - '+.mangot5.com.tw'
