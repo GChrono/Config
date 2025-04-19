@@ -1,3 +1,5 @@
 payload:
   - '+.licenses.adobe.com'
   - '+.cc-api-data.adobe.io'
+  - '+.google.com.hk'
+  - '+.google.cn'
