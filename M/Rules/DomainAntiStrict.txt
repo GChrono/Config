@@ -1,0 +1,11 @@
+# Steam
+  - 'steampowered.com'
+# Google
+  - 'google.com'
+# Youtube
+  - 'youtube.com'
+  - 'googlevideo.com'
+  - 'ytimg.com'
+  - 'doubleclick.net'
+  - 'ggpht.com'
+  - 'gstatic.com'
