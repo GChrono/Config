@@ -10,3 +10,8 @@ payload:
   - '+.doubleclick.net'
   - '+.ggpht.com'
   - '+.gstatic.com'
+# 推特
+  - '+.x.com'
+  - '+.twitter.com'
+  - '+.twimg.com'
+  - '+.arkoselabs.com'
