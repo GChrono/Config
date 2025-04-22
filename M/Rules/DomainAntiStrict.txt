@@ -1,12 +1,12 @@
 payload:
 # Steam
-  - 'steampowered.com'
+  - '+.steampowered.com'
 # Google
-  - 'google.com'
+  - '+.google.com'
 # Youtube
-  - 'youtube.com'
-  - 'googlevideo.com'
-  - 'ytimg.com'
-  - 'doubleclick.net'
-  - 'ggpht.com'
-  - 'gstatic.com'
+  - '+.youtube.com'
+  - '+.googlevideo.com'
+  - '+.ytimg.com'
+  - '+.doubleclick.net'
+  - '+.ggpht.com'
+  - '+.gstatic.com'
