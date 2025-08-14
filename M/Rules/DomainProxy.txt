@@ -353,6 +353,7 @@ payload:
   - '+.yorkbbs.ca'
   - '+.youtu.be'
   - '+.youtube.com'
+  - '+.usercontent.goog'
   - '+.youtube-nocookie.com'
   - '+.ytimg.com'
   - '+.zdassets.com'
