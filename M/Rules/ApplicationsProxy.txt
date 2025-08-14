@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,WindowsPackageManagerServer.exe
   - PROCESS-NAME,WinStore.App.exe
   - PROCESS-NAME,steamwebhelper.exe
   - PROCESS-NAME,exefile.exe
