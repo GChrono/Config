@@ -1,3 +1,4 @@
 payload:
   - '+.pacloudflare.com'
   - '+.dscb.akamai.net'
+  - '+.modules-cdn.eac-prod.on.epicgames.com'
