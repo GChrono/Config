@@ -89,6 +89,7 @@ payload:
   - '+.devolutions.net'
   - '+.digitaloceanspaces.com'
   - '+.discord.com'
+  - '+.discord.media'
   - '+.discord.gg'
   - '+.discordapp.com'
   - '+.discourse-cdn.com'
