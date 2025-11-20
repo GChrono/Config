@@ -13,4 +13,3 @@ payload:
   - PROCESS-NAME,PathOfExile.exe
   - PROCESS-NAME,wwzRetail.exe
   - PROCESS-NAME,TL.exe
-  - PROCESS-NAME,wwm.exe
