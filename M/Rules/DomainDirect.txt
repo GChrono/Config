@@ -14,6 +14,7 @@ payload:
   - '+.alipayobjects.com'
   - '+.aliyun.com'
   - '+.aliyuncs.com'
+  - '+.aliyuncsslbintl.com'
   - '+.cdngslb.com'
   - '+.digicert.cn'
   - '+.ele.me'
@@ -83,3 +84,4 @@ payload:
   - '+.xiaohongshu.com'
   - '+.xhscdn.com'
 
+  - '+.jcloudcdn.com'
