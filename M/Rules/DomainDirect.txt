@@ -74,6 +74,8 @@ payload:
   - '+.126.net'
   - '+.127.net'
   - '+.netease.com'
+  - '+.jcloudcdn.com'
+  - '+.easebar.com'
 # 华为
   - '+.huawei.com'
 # 百度
@@ -84,4 +86,4 @@ payload:
   - '+.xiaohongshu.com'
   - '+.xhscdn.com'
 
-  - '+.jcloudcdn.com'
+
