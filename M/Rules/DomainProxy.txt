@@ -374,3 +374,5 @@ payload:
   - '+.zoho.eu'
   - '+.cookielaw.org'
   - '+.wgcdn.co'
+  - '+.gcdn.co'
+  - '+.worldofwarships.asia'
