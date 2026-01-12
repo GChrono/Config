@@ -378,3 +378,4 @@ payload:
   - '+.worldofwarships.asia'
   - '+.featureassets.org'
   - '+.cloudflare-dns.com'
+  - '+.aslain.com'
