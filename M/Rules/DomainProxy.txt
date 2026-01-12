@@ -376,3 +376,5 @@ payload:
   - '+.wgcdn.co'
   - '+.gcdn.co'
   - '+.worldofwarships.asia'
+  - '+.featureassets.org'
+  - '+.cloudflare-dns.com'
