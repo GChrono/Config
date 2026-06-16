@@ -241,7 +241,6 @@ payload:
   - '+.pinterest.com'
   - '+.playblackdesert.com'
   - '+.plyr.io'
-  - '+.poecdn.com'
   - '+.polyfill.io'
   - '+.postimg.cc'
   - '+.pptvoss.com'
