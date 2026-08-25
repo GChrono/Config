@@ -379,3 +379,4 @@ payload:
   - '+.cloudflare-dns.com'
   - '+.aslain.com'
   - '+.proxmox.com'
+  - '+.crowdsec.net'
