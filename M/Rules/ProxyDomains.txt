@@ -378,3 +378,4 @@ payload:
   - '+.featureassets.org'
   - '+.cloudflare-dns.com'
   - '+.aslain.com'
+  - '+.proxmox.com'
