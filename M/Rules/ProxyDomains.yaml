@@ -383,5 +383,4 @@ payload:
   - '+.tm-azurefd.net'
   - '+.e-msedge.net'
   - '+.trafficmanager.net'
-  - '+.cdn.cloudflare.net'
   - '+.deb.debian.org'
