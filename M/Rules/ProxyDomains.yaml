@@ -380,4 +380,8 @@ payload:
   - '+.aslain.com'
   - '+.proxmox.com'
   - '+.crowdsec.net'
+  - '+.tm-azurefd.net'
+  - '+.e-msedge.net'
+  - '+.trafficmanager.net'
+  - '+.cdn.cloudflare.net'
   - '+.deb.debian.org'
