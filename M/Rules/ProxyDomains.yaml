@@ -380,3 +380,4 @@ payload:
   - '+.aslain.com'
   - '+.proxmox.com'
   - '+.crowdsec.net'
+  - '+.deb.debian.org'
