@@ -71,7 +71,6 @@ payload:
   - '+.cloudflareinsights.com'
   - '+.cloudfront.net'
   - '+.cloudinary.com'
-  - '+.cloudflareinsights.com'
   - '+.cloudflarestorage.com'
   - '+.company-target.com'
   - '+.concert.io'
