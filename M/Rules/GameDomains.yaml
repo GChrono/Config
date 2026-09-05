@@ -1,4 +1,8 @@
 payload:
+# POE2
   - '+.pacloudflare.com'
+  - '+.akadns.net'
+  - '+.akamai.net'
+  
   - '+.dscb.akamai.net'
   - '+.modules-cdn.eac-prod.on.epicgames.com'
