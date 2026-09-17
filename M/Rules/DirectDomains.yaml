@@ -37,6 +37,7 @@ payload:
   - '+.tencent.com'
   - '+.tencent-cloud.net'
   - '+.wechat.com'
+# bilibili
   - '+.bilibili.com'
   - '+.biligame.com'
   - '+.bilivideo.cn'
