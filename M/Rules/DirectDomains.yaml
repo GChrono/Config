@@ -38,9 +38,12 @@ payload:
   - '+.tencent-cloud.net'
   - '+.wechat.com'
   - '+.bilibili.com'
+  - '+.biligame.com'
+  - '+.bilivideo.cn'
+  - '+.mountaintoys.cn'
   - '+.bilivideo.com'
   - '+.hdslb.com'
-  - '+.taobao.com'
+
 # 京东
   - '+.3.cn'
   - '+.300hu.com'
