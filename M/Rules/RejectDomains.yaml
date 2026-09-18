@@ -5,4 +5,5 @@ payload:
   - '+.google.cn'
   - '+.cdp1.digicert.com.akadns.net'
   - '+.ocsp.digicert.com.cdn.cloudflare.net'
+  - '+.ocsp.comodoca.com.cdn.cloudflare.net'
   - '+.prod.globalsign.map.fastly.net'
