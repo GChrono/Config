@@ -3,3 +3,6 @@ payload:
   - '+.cc-api-data.adobe.io'
   - '+.google.com.hk'
   - '+.google.cn'
+  - '+.cdp1.digicert.com.akadns.net'
+  - '+.ocsp.digicert.com.cdn.cloudflare.net'
+  - '+.prod.globalsign.map.fastly.net'
