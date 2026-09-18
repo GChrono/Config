@@ -32,7 +32,6 @@ payload:
   - '+.tmall.com'
   - '+.tmall.hk'
   - '+.yundunwaf5.com'
-
 # 腾讯
   - '+.qq.com'
   - '+.qq.com.cn'
@@ -54,7 +53,6 @@ payload:
   - '+.tencentcloud.com'
   - '+.tencent-cloud.com'
   - '+.tencentcloudcs.com'
-
 # bilibili
   - '+.bilibili.com'
   - '+.biligame.com'
@@ -62,7 +60,6 @@ payload:
   - '+.mountaintoys.cn'
   - '+.bilivideo.com'
   - '+.hdslb.com'
-
 # 京东
   - '+.3.cn'
   - '+.300hu.com'
@@ -124,12 +121,10 @@ payload:
   - '+.huawei.com'
 # 百度
   - '+.baidu.com'
-  - '+.bdstatic.com'
   - '+.bcebos.com'
 # 小红书
   - '+.xiaohongshu.com'
   - '+.xhscdn.com'
-
 # 搜狐
   - '+.irs03.com'
   - '+.itc.cn'
@@ -137,16 +132,13 @@ payload:
   - '+.sohu.com'
   - '+.sohucs.com'
   - '+.baidustatic.com'
-
 # 新浪
   - '+.sina.com.cn'
   - '+.leju.com'
   - '+.qchannel03.cn'
   - '+.sina.cn'
   - '+.sinaimg.cn'
-
 # 抖音
-
   - '+.applogcdn.com'
   - '+.bytedance.com'
   - '+.bytednsdoc.com'
@@ -168,3 +160,27 @@ payload:
   - '+.ndcpp.com'
   - '+.yhgfb-cn-static.com'
   - '+.zijieapi.com'
+# YY
+  - '+.tdnsstic1.cn'
+  - '+.tdnsv6.com'
+  - '+.parkingcrew.net'
+  - '+.kunlungr.com'
+  - '+.yy.com'
+  - '+.shifen.com'
+  - '+.kunlunhuf.com'
+  - '+.kunlunca.com'
+  - '+.magicneko.com'
+  - '+.lxdns.com'
+  - '+.dnse2.com'
+  - '+.360qhcdn.com'
+  - '+.jomodns.com'
+  - '+.kunlunno.com'
+  - '+.apdcdn.com'
+  - '+.qihucdn.cn'
+  - '+.queniusy.com'
+  - '+.bigda.com'
+  - '+.crlocsp.cn'
+  - '+.cloudcsp.com'
+  - '+.queniuuf.com'
+  - '+.queniuck.com'
+  - '+.tdnsv5.com'
