@@ -14,5 +14,4 @@ payload:
   - '+.clients.l.google.com'
   - '+.www3.l.google.com'
   - '+.googletagmanager.com'
-  - '+.play.google.com'
   - '+.stun.l.google.com'
