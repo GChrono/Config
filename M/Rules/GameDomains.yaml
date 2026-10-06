@@ -3,6 +3,6 @@ payload:
   - '+.pacloudflare.com'
   - '+.akadns.net'
   - '+.akamai.net'
-  # AION2
+# AION2
   - '+.nc.com'
   - '+.plaync.com'
