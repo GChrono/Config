@@ -6,5 +6,5 @@ payload:
 # NC software AION2
   - '+.nc.com'
   - '+.plaync.com'
-#  - '+.playnccdn.com'
+  - '+.playnccdn.com'
   - '+.ncsoft.com'
