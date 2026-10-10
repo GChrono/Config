@@ -383,3 +383,7 @@ payload:
   - '+.zohopublic.com'
   - '+.zohostatic.jp'
   - '+.zohowebstatic.com'
+  - '+.grok.com'
+  - '+.stripe.network'
+  - '+.x.ai'
+  - '+.adtrafficquality.google'
