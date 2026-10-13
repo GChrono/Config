@@ -289,8 +289,13 @@ payload:
   - '+.sndcdn.com'
   - '+.soundalerts.com'
   - '+.soundcloud.com'
+# Spotify
   - '+.spotify.com'
   - '+.spotifycdn.com'
+  - '+.fastly.net'
+  - '+.mcast.net'
+  - '+.branch.io'
+# -----
   - '+.sprig.com'
   - '+.square-enix-games.com'
   - '+.squarespace.com'
