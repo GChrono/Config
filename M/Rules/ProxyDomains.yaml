@@ -92,10 +92,13 @@ payload:
   - '+.datatables.net'
   - '+.devolutions.net'
   - '+.digitaloceanspaces.com'
+#  Discord
   - '+.discord.com'
+  - '+.discordapp.com'
+  - '+.discordapp.net'
   - '+.discord.gg'
   - '+.discord.media'
-  - '+.discordapp.com'
+# --------------------
   - '+.discourse-cdn.com'
   - '+.disqus.com'
   - '+.dnscrypt.info'
