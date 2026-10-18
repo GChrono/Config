@@ -80,7 +80,12 @@ payload:
   - '+.connectad.io'
   - '+.contentful.com'
   - '+.cookielaw.org'
-  - '+.cookielaw.org'
+# SoundCloud
+  - '+.soundcloud.cloud'
+  - '+.prodregistryv2.org'
+  - '+.sndcdn.com'
+  - '+.soundcloud.com'
+# --------------
   - '+.coralproject.net'
   - '+.coredns.io'
   - '+.creative-assembly.com'
@@ -289,11 +294,14 @@ payload:
   - '+.singularity6.com'
   - '+.slideruletools.com'
   - '+.smartadserver.com'
-  - '+.sndcdn.com'
   - '+.soundalerts.com'
-  - '+.soundcloud.com'
+# Spotify
   - '+.spotify.com'
   - '+.spotifycdn.com'
+  - '+.fastly.net'
+  - '+.mcast.net'
+  - '+.branch.io'
+# -----
   - '+.sprig.com'
   - '+.square-enix-games.com'
   - '+.squarespace.com'
@@ -390,3 +398,6 @@ payload:
   - '+.stripe.network'
   - '+.x.ai'
   - '+.adtrafficquality.google'
+  - '+.filterblade.xyz'
+  - '+.nitropay.com'
+  - '+.poe2db.tw'
