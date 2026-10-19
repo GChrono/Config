@@ -1,1 +1,12 @@
-
+payload:
+# Spotify
+  - '+.spotify.com'
+  - '+.spotifycdn.com'
+  - '+.fastly.net'
+  - '+.mcast.net'
+  - '+.branch.io'
+# SoundCloud
+  - '+.soundcloud.cloud'
+  - '+.prodregistryv2.org'
+  - '+.sndcdn.com'
+  - '+.soundcloud.com'
