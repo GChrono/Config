@@ -11,6 +11,7 @@ payload:
   - '+.alimama.com'
   - '+.alipay.cn'
   - '+.alipay.com'
+  - '+.alipaydns.com'
   - '+.alipayobjects.com'
   - '+.aliyun.com'
   - '+.aliyuncs.com'
@@ -32,6 +33,7 @@ payload:
   - '+.tmall.com'
   - '+.tmall.hk'
   - '+.yundunwaf5.com'
+  - '+.queniubl.com'
 # 腾讯
   - '+.qq.com'
   - '+.qq.com.cn'
