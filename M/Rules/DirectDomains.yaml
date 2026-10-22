@@ -53,6 +53,7 @@ payload:
   - '+.tencentcloud.com'
   - '+.tencent-cloud.com'
   - '+.tencentcloudcs.com'
+  - '+.myqcloud.com'
 # bilibili
   - '+.bilibili.com'
   - '+.biligame.com'
