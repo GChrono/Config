@@ -348,8 +348,6 @@ payload:
   - '+.wsj.com'
   - '+.wsj.net'
   - '+.x.com'
-  - '+.xiaoyakankan.cc'
-  - '+.ximalaya.com'
   - '+.xmcdn.com'
   - '+.yahoo.com'
   - '+.yandex.ru'
@@ -380,3 +378,4 @@ payload:
   - '+.poe2db.tw'
   - '+.poedb.tw'
   - '+.poecdn.com'
+  - '+.pathofexile.com'
