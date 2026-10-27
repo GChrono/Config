@@ -97,6 +97,7 @@ payload:
   - '+.discordapp.net'
   - '+.discord.gg'
   - '+.discord.media'
+  - '+.hcaptcha.com'
 # --------------------
   - '+.discourse-cdn.com'
   - '+.disqus.com'
