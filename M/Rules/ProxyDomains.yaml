@@ -385,6 +385,7 @@ payload:
   - '+.opensnell.com'
   - '+.poe.ninja'
   - '+.ezojs.com'
+  - '+.ezoic.net'
   - '+.ezoicanalytics.com'
   - '+.gatekeeperconsent.com'
   - '+.cloudflareinsights.com'
