@@ -384,3 +384,7 @@ payload:
   - '+.pathofexile.com'
   - '+.opensnell.com'
   - '+.poe.ninja'
+  - '+.ezojs.com'
+  - '+.ezoicanalytics.com'
+  - '+.gatekeeperconsent.com'
+  - '+.cloudflareinsights.com'
