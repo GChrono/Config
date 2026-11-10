@@ -66,6 +66,8 @@ payload:
   - '+.biliapi.com'
   - '+.bilicdn1.com'
   - '+.bilicdn2.com'
+  - '+.biliimg.com'
+  - '+.aikobo.cn'
 # 京东
   - '+.3.cn'
   - '+.300hu.com'
